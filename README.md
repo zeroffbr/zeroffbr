@@ -1,8 +1,10 @@
 ### Olá! Eu sou o John Silva ✋ 
 
 ## **Rede Sociais!**
-[![Blog](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/wjohn_s/)
-[![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wennerjohn-silva-bezerra-574ba1164/)
+<div>
+  <a href="https://www.instagram.com/wjohn_s/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/wennerjohn-silva-bezerra-574ba1164/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</div>
 
 ## **Informações sobre minha conta GitHub**
 ![John Silva GitHub stats](https://github-readme-stats.vercel.app/api?username=zeroffbr&show_icons=true&theme=tokyonight)
